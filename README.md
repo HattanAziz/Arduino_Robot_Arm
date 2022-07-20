@@ -54,6 +54,15 @@ void loop() {
 
 
 
+7-We use a piece called Uno to connect between the robotic arm and the computer, and we connect it in a correct way ,
+note : Be careful if you don't connect the uno piece correctly, it can damage your device
+
+![image](https://user-images.githubusercontent.com/109594520/179995584-bb3cd65c-3a6d-40ab-ade9-2f3ce02977a6.png)
+
+![image](https://user-images.githubusercontent.com/109594520/179995960-1e81802a-797b-4f57-b808-70567a9fd0b8.png)
+
+
+
 
 https://user-images.githubusercontent.com/109594520/179993612-69fb8aec-3395-44bc-bf66-d7e2bdd87122.mp4
 
